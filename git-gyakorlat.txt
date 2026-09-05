@@ -2,3 +2,6 @@ Git gyakorló fájl
 
 1. Git = helyi verziókezelő
 2. GitHub = távoli repository
+3. git add = változás előkészítése
+4. git commit = verzió rögzítése
+5. git push = commitok feltöltése GitHubra
