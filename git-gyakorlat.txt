@@ -6,4 +6,4 @@ Git gyakorló fájl
 4. git commit = verzió rögzítése
 5. git push = commitok feltöltése GitHubra
 6. git pull = távoli változások letöltése és beépítése
-7. branch = párhuzamos fejlesztés Git segítségével
+7. branch = külön fejlesztési ág
