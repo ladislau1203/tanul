@@ -5,3 +5,4 @@ Git gyakorló fájl
 3. git add = változás előkészítése
 4. git commit = verzió rögzítése
 5. git push = commitok feltöltése GitHubra
+6. git pull = távoli változások letöltése és beépítése
