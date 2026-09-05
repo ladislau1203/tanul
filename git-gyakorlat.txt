@@ -7,3 +7,4 @@ Git gyakorló fájl
 5. git push = commitok feltöltése GitHubra
 6. git pull = távoli változások letöltése és beépítése
 7. branch = külön fejlesztési ág
+8. HIBÁS COMMIT - ezt később visszavonjuk
