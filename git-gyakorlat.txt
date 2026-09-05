@@ -1,0 +1,4 @@
+Git gyakorló fájl
+
+1. Git = helyi verziókezelő
+2. GitHub = távoli repository
