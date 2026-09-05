@@ -8,3 +8,4 @@ Git gyakorló fájl
 6. git pull = távoli változások letöltése és beépítése
 7. branch = külön fejlesztési ág
 8. HIBÁS COMMIT - ezt később visszavonjuk
+9. Claude Code = a Git műveleteket természetes nyelvű utasítások alapján is el tudja végezni
